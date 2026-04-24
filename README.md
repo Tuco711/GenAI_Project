@@ -30,8 +30,11 @@ Evaluation was performed using:
 ```text
 GenAI_Project/
 │
+├── TP1-alunos-search-only/
+│   └── student_start_pack/
+│       └── ArtBench-10_Student_Start_Pack.ipynb   # Main notebook
+│
 ├── configs/      # Hyperparameter configurations (.json)
-├── results/      # Final metrics and evaluation outputs (.json)
-├── history/      # Training logs and loss curves (.json)
-├── src/          # Model architectures and utilities     
+├── results/      # Evaluation metrics and outputs (.json)
+├── history/      # Training logs (.json)
 └── README.md
