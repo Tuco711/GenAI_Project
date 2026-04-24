@@ -1,0 +1,8 @@
+{
+    "z": 128,
+    "lr": 0.0005,
+    "filters": 64,
+    "epochs": 20,
+    "beta": 0.1,
+    "name": "ConvVAE_z128_lr0.0005_f64_e20_b0.1"
+}
