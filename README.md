@@ -42,4 +42,5 @@ GenAI_Project/
 ├── configs/      # Hyperparameter configurations (.json)
 ├── results/      # Evaluation metrics and outputs (.json)
 ├── history/      # Training logs (.json)
+├── Comparative_Analysis_of_Generative_Models_for_Artistic_Image_Synthesis_on_ArtBench_10.pdf
 └── README.md
