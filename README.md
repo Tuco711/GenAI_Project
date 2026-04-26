@@ -4,6 +4,11 @@ This repository contains the implementation, trained models, and experimental re
 
 **Comparative Analysis of Generative Models for Artistic Image Synthesis on ArtBench-10**
 
+**Authors**:
+
+- Arthur Sophiatti [2022115599]
+- Giovanni Faedo [2025267503]
+
 Developed at the University of Coimbra.
 
 ---
